@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description rdf:about="">
+            <dc:creator rdf:resource="mailto:plindenbaum@yahoo.fr"/>
+            <dc:title>Hello World</dc:title>
+            <dc:date>2010-07-11</dc:date>
+        </rdf:Description>
+        <foaf:Person rdf:about="mailto:plindenbaum@yahoo.fr">
+            <foaf:name>Pierre Lindenbaum</foaf:name>
+            <foaf:depiction rdf:resource="http://a3.twimg.com/profile_images/51679789/photoIG_bigger.jpg"/>
+        </foaf:Person>
+    </rdf:RDF>
+</x:xmpmeta>
